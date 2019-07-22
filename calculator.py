@@ -81,8 +81,5 @@ class calculatrice:
         return n[0]
             
             
-a=calculatrice("2+33")
-a.conv()
-print("resultat "+str(a.ch)+" = "+str(a.calculer()))
                 
-     
+  

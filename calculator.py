@@ -61,10 +61,10 @@ class calculatrice:
             elif o=='*':
                 return n*m
             elif o=='/':
-                if m!=0:
-                    return n/m
-                else :
-                    print("erreur")
+                try :
+                    return float(n)/m
+                exception :
+                    print("erreur can not /0")
                 
         d=self.listdeg
         n=self.listnumber

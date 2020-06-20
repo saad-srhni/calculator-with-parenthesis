@@ -1,11 +1,9 @@
 # calculator-with-parenthesis
 calculator with parenthesis 
 
-so if u run 
-
 run file test.py
 
-and edit this file created any operation 
+and edit this file by create any operation 
 
 for exemple:
 
